@@ -1,2 +1,2 @@
 # DIOSTND1CHALLENGE
-Repositório para compartilar progresso
+Repositório para compartilhar progresso
